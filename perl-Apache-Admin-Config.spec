@@ -45,10 +45,6 @@ rm -rf $RPM_BUILD_ROOT
 %{__make} install \
 	DESTDIR=$RPM_BUILD_ROOT
 
-# I don't get why it's needed... -- radek
-install -d $RPM_BUILD_ROOT%{_mandir}/man3
-/usr/bin/pod2man lib/Apache/Admin/Config.pm > $RPM_BUILD_ROOT%{_mandir}/man3/Apache::Admin::Config.3pm
-
 %clean
 rm -rf $RPM_BUILD_ROOT
 
