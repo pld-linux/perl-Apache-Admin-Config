@@ -5,7 +5,7 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Apache
 %define	pnam	Admin-Config
-Summary:	Apache::Admin::Config - Manipulate Apache configuration files
+Summary:	Apache::Admin::Config - manipulate Apache configuration files
 Summary(pl):	Apache::Admin::Config - manipulowanie plikami konfiguracyjnymi Apache'a
 Name:		perl-Apache-Admin-Config
 Version:	0.91
