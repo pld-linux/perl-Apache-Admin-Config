@@ -7,7 +7,7 @@
 Summary:	Apache::Admin::Config - Manipulate Apache configuration files
 Summary(pl):	Apache::Admin::Config - manipulowanie plikami konfiguracyjnymi Apache'a
 Name:		perl-Apache-Admin-Config
-Version:	0.90
+Version:	0.91
 Release:	1
 License:	LGPL v2.1+
 Group:		Development/Languages/Perl
