@@ -50,6 +50,7 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
+%doc Changes UPGRADE-0.10
 %dir %{perl_vendorlib}/Apache/Admin
 %{perl_vendorlib}/Apache/Admin/*.pm
 %{_mandir}/man3/*
