@@ -13,7 +13,7 @@ Release:	1
 License:	LGPL v2.1+
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	68681c01f121b8f25b773a4623e08bda
+# Source0-md5:	16c3f841580e0f58a98ce42704f5e84f
 URL:		http://search.cpan.org/dist/Apache-Admin-Config/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
