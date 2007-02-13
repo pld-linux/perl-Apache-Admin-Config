@@ -6,7 +6,7 @@
 %define		pdir	Apache
 %define		pnam	Admin-Config
 Summary:	Apache::Admin::Config - manipulate Apache configuration files
-Summary(pl.UTF-8):   Apache::Admin::Config - manipulowanie plikami konfiguracyjnymi Apache'a
+Summary(pl.UTF-8):	Apache::Admin::Config - manipulowanie plikami konfiguracyjnymi Apache'a
 Name:		perl-Apache-Admin-Config
 Version:	0.94
 Release:	1
