@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests	# don't perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Apache
 %define		pnam	Admin-Config
 Summary:	Apache::Admin::Config - manipulate Apache configuration files
